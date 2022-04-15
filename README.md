@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Yusuf 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliacikyusuf/)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yusufeliacik&theme=maroongold&show_icons=true) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufeliacik&layout=compact&theme=maroongold)](https://github.com/yusufeliacik/github-readme-stats) </br>
 
 <!--
 **yusufeliacik/yusufeliacik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
